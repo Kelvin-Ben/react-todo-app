@@ -5,13 +5,11 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- ReactJs
 
-## Live Demo (if available)
+## Live Demo (updating soon)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
