@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# React Todo App
 
-# Project Name
-
-> Description the project.
+> I recently created a todo app using React, which allowed me to hone my skills in React and JavaScript. The app includes features such as adding new tasks, updating and deleting existing tasks, and filtering tasks based on completion status. By building this project, I strengthened my understanding of state management, component lifecycles, and UI design. I am excited to continue building dynamic and interactive applications with React.
 
 
 ## Built With
