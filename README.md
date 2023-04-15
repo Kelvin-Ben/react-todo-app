@@ -14,13 +14,14 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+> These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+What things you need to install the software and how to install them:
+- A code editor such as Visual Studio Code or Sublime Text
+- A modern web browser such as Google Chrome, Mozilla Firefox, or Safari
 
 ### Setup
 
