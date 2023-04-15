@@ -26,7 +26,15 @@ What things you need to install the software and how to install them:
 ### Setup
 
 ### Install
+- Clone the repository to your local machine:
 
+  $ git clone git@github.com:Kelvin-Ben/react-todo-app.git
+
+- Navigate to the project directory:
+
+  $ cd react-todo-app
+  
+  npm install then npm start to view the portfolio website.
 ### Usage
 
 ### Run tests
